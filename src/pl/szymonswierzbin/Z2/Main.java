@@ -49,10 +49,6 @@ public class Main {
         System.out.println("");
         System.out.println("Dla Stack t3:"+t3);
         wypiszCoDrugi(t3);
-
-
-
-
     }
 
 
